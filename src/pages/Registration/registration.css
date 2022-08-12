@@ -1,0 +1,10 @@
+
+.abc img{
+    width: 100%;
+}
+.register{
+    display: flex !important;
+    align-items:  center !important;
+}
+
+

@@ -17,6 +17,7 @@ const Welcome = () => {
         <CountdownCircleTimer
           isPlaying
           duration={5}
+          // color={"#fff"}
           colors={["#abc8ed", "#3d4294", "#17053d"]}
           colorsTime={[5, 2, 0]}
         >

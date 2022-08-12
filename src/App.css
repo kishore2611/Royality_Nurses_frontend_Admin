@@ -4,3 +4,29 @@
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
 }
+.register_btn{
+  background-color: darkblue;
+  width: 75%;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.register_btn:hover{
+  background-color: #3535AA;
+}
+
+
+.counter{
+  color: white !important;
+  background-color: white;
+}
+
+.b{
+  color: white;
+}
+
+.kishore{
+  z-index: 1 !important;
+}
